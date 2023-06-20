@@ -1,0 +1,1 @@
+a buy now button is clicked with the total price be $970
